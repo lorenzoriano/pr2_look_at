@@ -33,3 +33,14 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+#misc ros stuff
+!__init__.py
+*.wpr
+*.wpu
+srv_gen/
+msg_gen/
+.idea/
+*ropeproject*
+*.swp
+_*
